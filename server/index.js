@@ -1,4 +1,3 @@
-// Back-End (Express)
 
 const openAI = require('openai')
 const dotenv = require('dotenv')
